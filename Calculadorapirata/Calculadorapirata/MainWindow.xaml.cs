@@ -20,6 +20,7 @@ namespace Calculadorapirata
     /// </summary>
     public partial class MainWindow : Window
     {
+        //hola
         public MainWindow()
         {
             InitializeComponent();
